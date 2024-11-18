@@ -1,1 +1,4 @@
-prev acts inlcuding this one, was part of set problems given by my school
+SET PROBLEM 6
+Arithmetic Operations.
+Create a program that ask the user for 2 input numbers. Then print the added result, subtracted, multiplied and divided. In that order.
+
